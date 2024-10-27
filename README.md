@@ -11,7 +11,6 @@ This lab offers a comprehensive hands-on experience with key networking technolo
   - Configuring address leases
   - Understanding DHCP options
 
-![DHCP Setup](https://images.unsplash.com/photo-1517436075-8b7c1e3d01e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3MF8wfDF8c2VhcmNofDF8fGRocCUyMG1vdGV8ZW58MHx8fHwxNjA1MTU3MzMx&ixlib=rb-1.2.1&q=80&w=400)
 
 ---
 
@@ -22,7 +21,6 @@ This lab offers a comprehensive hands-on experience with key networking technolo
   - Configuring router priorities
   - Monitoring HSRP status
 
-![HSRP Setup](https://images.unsplash.com/photo-1551862936-5e17a0f5eae0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3MF8wfDF8c2VhcmNofDEwfHxoZWFkZXJ8ZW58MHx8fHwxNjA1MTU3Mzc1&ixlib=rb-1.2.1&q=80&w=400)
 
 ---
 
@@ -33,7 +31,7 @@ This lab offers a comprehensive hands-on experience with key networking technolo
   - Understanding root bridge selection
   - Implementing STP port roles and states
 
-![STP Setup](https://images.unsplash.com/photo-1600331895800-e1bffbe9cfb1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3MF8wfDF8c2VhcmNofDd8fHN0cCUyMHN3aXRjaGluZ3xlbnwwfHx8fDE2MDUxNTc0MTc&ixlib=rb-1.2.1&q=80&w=400)
+
 
 ---
 
@@ -44,7 +42,7 @@ This lab offers a comprehensive hands-on experience with key networking technolo
   - Configuring forward and reverse lookup
   - Troubleshooting DNS resolution issues
 
-![DNS Setup](https://images.unsplash.com/photo-1561571861-6a3a8d73f747?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3MF8wfDF8c2VhcmNofDF8fGRuc3xlbnwwfHx8fDE2MDUxNTc0MjM&ixlib=rb-1.2.1&q=80&w=400)
+
 
 ---
 
@@ -55,7 +53,6 @@ This lab offers a comprehensive hands-on experience with key networking technolo
   - Implementing VLANs for traffic segmentation
   - Configuring trunk and access ports
 
-![Layer 2 Switching](https://images.unsplash.com/photo-1584697964184-1685c4c1cf98?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3MF8wfDF8c2VhcmNofDd8fHN3aXRjaGluZ3xlbnwwfHx8fDE2MDUxNTc0NjA&ixlib=rb-1.2.1&q=80&w=400)
 
 ---
 
@@ -66,7 +63,7 @@ This lab offers a comprehensive hands-on experience with key networking technolo
   - Understanding routing tables
   - Implementing inter-VLAN routing
 
-![Layer 3 Routing](https://images.unsplash.com/photo-1562524892-28745f48121f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3MF8wfDF8c2VhcmNofDF8fHJvdXRpbmd8ZW58MHx8fHwxNjA1MTU3NDc0&ixlib=rb-1.2.1&q=80&w=400)
+
 
 ---
 
@@ -77,7 +74,7 @@ This lab offers a comprehensive hands-on experience with key networking technolo
   - Configuring VLAN tagging
   - Implementing VLAN Trunking Protocol (VTP)
 
-![VLAN and VTP Setup](https://images.unsplash.com/photo-1556742031-b35800f100b1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3MF8wfDF8c2VhcmNofDV8fHZsYW58ZW58MHx8fHwxNjA1MTU3NDk4&ixlib=rb-1.2.1&q=80&w=400)
+
 
 ---
 
